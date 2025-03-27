@@ -1,0 +1,112 @@
+@media (max-width:800px) {
+
+    /* estilo padrão */
+    h1 {
+        font-size: 2rem;
+        font-weight: bold;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+        text-align: center;
+        width: 100%;
+        margin: 2% 0;
+    }
+
+    p {
+        font-size: 1rem;
+        text-align: justify;
+        font-family: "Cardo", serif;
+        font-weight: 400;
+        font-style: normal;
+
+    }
+
+    .botao {
+        align-self: center;
+        margin: 5% 0 0 0;
+    }
+
+    .flexivel-coluna {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        gap: 5%;
+    }
+
+    .duas-colunas {
+        width: 100%;
+        height: 100%;
+        flex: 1 1 100%;
+        margin: 0 0 5% 0;
+    }
+
+    .tres-coluna {
+        flex: 1 1 calc(50% - 10%);
+    }
+
+    .reverter-coluna {
+        flex-direction: column-reverse;
+    }
+
+    .coluna-celular {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    /* cabeçalho */
+    .logo {
+        width: 25%;
+        padding-left: 5%;
+    }
+
+    .menu {
+        height: 100%;
+        display: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .menu.ativarMenu {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100%;
+        height: 100vh;
+        position: fixed;
+        top: 0;
+        left:0 ;
+        background-color: #500a0a;
+    }
+
+    .botao-menu {
+        display: flex;
+        z-index: 1000;
+    }
+
+    /* conteudo principal */
+    main {
+        padding: 0 5%;
+    }
+
+    /* formulário */
+    form {
+        width: 100%;
+    }
+
+    /* rodapé */
+    footer h5 {
+        font-size: 1rem;
+    }
+    .link-rapido{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
