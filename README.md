@@ -9,7 +9,7 @@ Projeto desenvolvido para a **Competição Senac de Educação Profissional**, a
 ✅ **Design no Figma** (Wireframe + Sitemap)  
 ✅ **Desenvolvimento Frontend** (HTML5, CSS3, JavaScript)  
 ✅ **Backend e Banco de Dados** (PHP + MySQL)  
-✅ **Validação de Formulário** (JS)  
+✅ **Validação de Formulário** (JS + HTML5)  
 ✅ **Exibição de Dados**  
 ✅ **Readme com medidas de Segurança**  
 
