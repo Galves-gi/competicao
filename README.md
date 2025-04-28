@@ -91,4 +91,8 @@ CREATE TABLE `tb_formulario` (
   `mensagem` TEXT NOT NULL
 );
 ```
-4. **Acesse:** `https://galves-gi.github.io/competicao/`  
+4. **Acesse:** ´http://localhost/doces-da-vovo`
+
+```
+## **Acesse o site hospedado**
+`https://galves-gi.github.io/competicao/`  
