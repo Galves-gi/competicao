@@ -1,5 +1,5 @@
 
-# **Doces da Vovó - Projeto para Competição Senac de Educação Profissional**  
+# **Doces da Vovó - Competição Senac de Educação Profissional**  
 **Modalidade: Técnico em Informática | Etapa: Seletiva Estadual Final**  
 
 ---
