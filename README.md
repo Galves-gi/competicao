@@ -93,7 +93,5 @@ CREATE TABLE `tb_formulario` (
 ```
 4. **Acesse:** ´http://localhost/doces-da-vovo`
 
-```
 ## **Acesse o site hospedado**
 `https://galves-gi.github.io/competicao/`
-```
